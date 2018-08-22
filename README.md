@@ -3,7 +3,7 @@
 If you like Monokai Pro and are looking for a Terminator theme based on it. Here's the palette.
 ```
 [[MonokaiPro]]
-	background_color = "#403e41"
+    background_color = "#403e41"
     cursor_color = "#fcfcfa"
     cursor_color_fg = False
     foreground_color = "#fcfcfa"
